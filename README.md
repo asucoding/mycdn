@@ -1,2 +1,1 @@
-# mycdn
-all image
+add img
